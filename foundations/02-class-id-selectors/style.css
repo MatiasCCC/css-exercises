@@ -1,0 +1,16 @@
+.impares {
+    background-color: rgb(252, 156, 172);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#nro2 {
+    color: rgb(0, 0, 230);
+    font-size: 36px;
+}
+.tamaño {
+    font-size: 24px;
+}
+#nro4 {
+    background-color: rgb(131, 245, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
